@@ -1,8 +1,2 @@
-#This Is Test Program.
-#I will change this script.
+import twitter
 
-
-print("helloTest!")
-print("helloTest!")
-
-print("helloTest!")
